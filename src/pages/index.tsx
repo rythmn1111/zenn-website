@@ -1,8 +1,9 @@
-
+import FirstSlide from "@/components/first_slide"
 
 export default function Home() {
   return<>
-  <h1>hello</h1>
+    <FirstSlide />
+  {/* <h1>hello</h1> */}
   </> 
 
 }
